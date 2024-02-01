@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding:0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin-top: 80px;
+    margin-right:200px;
+
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#go {
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+
+}
+
+.emailbtn{
+    width:200%;
+}
+
+.signupbtn{
+    width: 200%;
+
+}
+
+.btnl{
+    background-color:blue;
+    width: 99%;
+}
+
+
+
+/* Uber-Request a ride button */
+
+.uber{
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 375px;
+    margin-left: 320px;
+    margin-bottom: 30px;
+    
+}
+
+input {
+    width: calc(50% - 5px);
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 10px;
+    align-items: left;
+
+}
+
+.inpt1{
+    width: 250px;
+    background-color: #c8b1b1;
+    border: none;
+}
+.inpt2{
+    width: 250px;
+    background-color: #c8b1b1;
+    border: none;
+}
+button {
+    width: calc(50% - 5px);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+
+.btn-left{
+    background-color:black;
+    color: white;
+    width: 100px;
+    margin-right: 20px;
+    margin-top: 15px;
+    border: none;
+}
+.btn-right{
+    background-color: rgba(158, 145, 145, 0.626);
+    color: black;
+    border: 1px solid black;
+    width: 130px;
+    border: none;
+
+    
+}
+
